@@ -1,0 +1,5 @@
+- 👋 Hi, this is @x1997dd
+- 👀 Nice to meet you and thanks for checking this.
+- 🌱 I’m currently working at a translation company and learning HTML and PHP programming.
+- 💞️ Interested in processing language/translation statistics with tools. 
+- 📫 How to reach me: 13055113648@163.com
